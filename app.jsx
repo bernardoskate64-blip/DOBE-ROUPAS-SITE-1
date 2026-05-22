@@ -355,6 +355,9 @@ function Hero({ heroImage }) {
               <span className="dot"></span>
               <span>DROP 02 · NOVA FRIBURGO · RJ</span>
             </div>
+            <div className="hero-logo-large">
+              <img src="assets/logo.png" alt="DOBÊ" />
+            </div>
             <div className="hero-sub">
               <p>
                 <b>DOBÊ</b> vem da serra do Rio. Camisetas pesadas,
